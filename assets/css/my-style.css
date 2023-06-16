@@ -505,4 +505,14 @@ display: none;
 .card-wrapper .card-wrapper-inner .seat {
 display: none;
 }
+.card-wrapper .card-wrapper-inner .carde-text .dolr a {
+   margin-right: 1rem;
+
+}
+
+.card-wrapper .card-wrapper-inner .carde-text .discnt {
+    margin-right: 1rem;
+  
+
+}
 }
